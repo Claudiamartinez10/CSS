@@ -6,7 +6,7 @@
 
 /*SELECTORES DE ETIQUETAS*/
 body {
-    background-image: url("../img/paisaje.jpg");
+    background-image: url("img/paisaje.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
